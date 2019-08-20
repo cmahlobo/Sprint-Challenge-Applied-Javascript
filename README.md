@@ -30,14 +30,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Object model representation of the html that we can use to manipulate the page's content
+
+
 2. What is an event?
+
+An action taken on the page like a click or mouse over
 
 3. What is an event listener?
 
+Something that tells you when an action has been taken
+
 4. Why would we convert a NodeList into an Array?
+
+To use methods such as forEach() and every()
 
 5. What is a component?
 
+A re-usable set of logic that we can use to manipulate & control our page
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
